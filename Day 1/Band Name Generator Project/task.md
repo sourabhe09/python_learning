@@ -7,7 +7,7 @@
   e.g. 
 
 <code>
-print("My name is " + name)
+print("My name is: " + name)
 </code>
 </div>
 
