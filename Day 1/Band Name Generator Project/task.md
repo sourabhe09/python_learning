@@ -13,7 +13,7 @@ print("My name is: " + name)
 
 5. Make sure the input cursor shows on a new line:
 
-<div class="hint">
+<div class="hint test">
   Think about how you used \n to add a new line to a string. Try putting it in some different places in your code until it does what you expect. Note, when you click into the output area you will be able to click on the end of the line as well as the new line. See the video solution for how it looks on my system.
 </div>
 
